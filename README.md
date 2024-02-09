@@ -10,3 +10,5 @@ Flight Cost Estimation UX is a user experience design project aimed at providing
 - To provide users with a user-friendly interface that is easy to navigate and understand.
 - To incorporate features that take into account student discounts and other cost-saving options.
 - To improve the overall user experience of planning and budgeting for student travel.
+
+
